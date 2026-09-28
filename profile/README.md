@@ -1,4 +1,4 @@
-# **Mount & Blade II: Bannerlord Automatic DLC Unlocker & Activator**
+# **Mount & Blade 2: Bannerlord Automatic DLC Unlocker & Activator**
 
 **CreamAPI** is a simple tool that automatically unlocks and activates DLCs in **Mount & Blade II: Bannerlord**.
 
@@ -7,12 +7,10 @@
 ## 🔗 Latest Release
 
 - **💾 Version 5.0.0.5** – *Tool files & folders*  
-  👉 [The Latest Release](https://github.com/Bannerlord-DLC-Unlocker/.github/releases)
+  👉 [The Latest Release](https://github.com/MnB-2-Bannerlord-DLC-Unlocker/.github/releases)
   
 * **Platform:** Windows
 * **Format:** `.zip` archive
-
-> Linux and macOS support may vary depending on the current release.
 
 ---
 
@@ -59,10 +57,3 @@
 - Works with **official Steam builds only** (no cracked or repack versions).
 - If **ount & Blade II: Bannerlord** updates, simply rerun **CreamAPI** to reapply the unlockers.
 
----
-
-## ⚠️ **Disclaimer**
-
-This guide is for **educational purposes** and **personal testing** only.  
-Modifying or unlocking paid content without proper ownership may **violate Steam’s Terms of Service**.  
-Use at your own discretion and only for legitimate software research or DLC management.
